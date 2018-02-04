@@ -11,5 +11,5 @@ This game is for entertainment purposes.
 Psychic Guess the Letter Game is maintained and contributed to by Jennifer Lang and was an assignment during week 3 
 of the University of Kansas coding program.  This games emphasizes the programming skills of javascript and HTML5.
 
-#https://jenniferlang1921.github.io/Psychic-Game/.
+# https://jenniferlang1921.github.io/Psychic-Game/
 
