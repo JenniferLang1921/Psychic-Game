@@ -13,3 +13,5 @@ of the University of Kansas coding program.  This games emphasizes the programmi
 
 # https://jenniferlang1921.github.io/Psychic-Game/
 
+I have linked to this game from my portfolio at https://jenniferlang1921.github.io/portfolio.html
+
